@@ -1,0 +1,2 @@
+# Amazon_image_preview_functionality
+Created with CodeSandbox
